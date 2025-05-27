@@ -15,6 +15,7 @@ helmCharts:
       enabled: true
 
 resources:
+- clusterissuer.yaml
 - sa-crb.yaml
 - secrets.yaml
 - secretstore.yaml
