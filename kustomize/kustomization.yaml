@@ -13,3 +13,6 @@ helmCharts:
       # This option decides if the CRDs should be installed
       # as part of the Helm installation.
       enabled: true
+
+resources:
+- secretstore.yaml
