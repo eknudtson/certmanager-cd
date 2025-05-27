@@ -15,4 +15,5 @@ helmCharts:
       enabled: true
 
 resources:
+- sa-crb.yaml
 - secretstore.yaml
