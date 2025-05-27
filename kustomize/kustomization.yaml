@@ -16,4 +16,5 @@ helmCharts:
 
 resources:
 - sa-crb.yaml
+- secrets.yaml
 - secretstore.yaml
